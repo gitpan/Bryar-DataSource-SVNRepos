@@ -1,0 +1,8 @@
+Bryar::DataSource::SVNRepos
+
+A module to get the entries for a blog from a local subversion
+repository. It uses SVN::Fs, so using a remote repository isn't
+possible.
+
+
+-- martijn
